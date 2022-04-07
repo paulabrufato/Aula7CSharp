@@ -1,0 +1,16 @@
+C:\Users\paula\OneDrive\Área de Trabalho\Atividades\Aula7CSharp\bin\Debug\net5.0\Aula7CSharp.exe
+C:\Users\paula\OneDrive\Área de Trabalho\Atividades\Aula7CSharp\bin\Debug\net5.0\Aula7CSharp.deps.json
+C:\Users\paula\OneDrive\Área de Trabalho\Atividades\Aula7CSharp\bin\Debug\net5.0\Aula7CSharp.runtimeconfig.json
+C:\Users\paula\OneDrive\Área de Trabalho\Atividades\Aula7CSharp\bin\Debug\net5.0\Aula7CSharp.runtimeconfig.dev.json
+C:\Users\paula\OneDrive\Área de Trabalho\Atividades\Aula7CSharp\bin\Debug\net5.0\Aula7CSharp.dll
+C:\Users\paula\OneDrive\Área de Trabalho\Atividades\Aula7CSharp\bin\Debug\net5.0\Aula7CSharp.pdb
+C:\Users\paula\OneDrive\Área de Trabalho\Atividades\Aula7CSharp\obj\Debug\net5.0\Aula7CSharp.csproj.AssemblyReference.cache
+C:\Users\paula\OneDrive\Área de Trabalho\Atividades\Aula7CSharp\obj\Debug\net5.0\Aula7CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paula\OneDrive\Área de Trabalho\Atividades\Aula7CSharp\obj\Debug\net5.0\Aula7CSharp.AssemblyInfoInputs.cache
+C:\Users\paula\OneDrive\Área de Trabalho\Atividades\Aula7CSharp\obj\Debug\net5.0\Aula7CSharp.AssemblyInfo.cs
+C:\Users\paula\OneDrive\Área de Trabalho\Atividades\Aula7CSharp\obj\Debug\net5.0\Aula7CSharp.csproj.CoreCompileInputs.cache
+C:\Users\paula\OneDrive\Área de Trabalho\Atividades\Aula7CSharp\obj\Debug\net5.0\Aula7CSharp.dll
+C:\Users\paula\OneDrive\Área de Trabalho\Atividades\Aula7CSharp\obj\Debug\net5.0\refint\Aula7CSharp.dll
+C:\Users\paula\OneDrive\Área de Trabalho\Atividades\Aula7CSharp\obj\Debug\net5.0\Aula7CSharp.pdb
+C:\Users\paula\OneDrive\Área de Trabalho\Atividades\Aula7CSharp\obj\Debug\net5.0\Aula7CSharp.genruntimeconfig.cache
+C:\Users\paula\OneDrive\Área de Trabalho\Atividades\Aula7CSharp\obj\Debug\net5.0\ref\Aula7CSharp.dll
